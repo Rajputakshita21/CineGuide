@@ -1,5 +1,6 @@
-<h1 align="center"> Movie Search App </h1>
+<h1 align="center"> Movie Guide App </h1>
 A simple and interactive movie search application that lets users search for their favorite movies and explore essential information, including ratings, genres, release dates, runtime, cast, plot, and posters.
+ <br><br>
 <table align="center">
   <tr>
     <td><img src="screenshot/main_screen.jpeg" ></td>
@@ -7,12 +8,12 @@ A simple and interactive movie search application that lets users search for the
     <!-- <td><img src="screenshot/swapped.jpeg" ></td> -->
   </tr>
 </table>
-
+ <br><br>
 
 
 <table align="center">
   <tr>
-    <td><img src="screenshot/swapped.jpeg" width="600"></td>
+    <td><img src="screenshot/swapped.jpeg" ></td>
   </tr>
 </table>
 
