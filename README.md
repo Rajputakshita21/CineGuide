@@ -2,9 +2,9 @@
 A simple and interactive movie search application that lets users search for their favorite movies and explore essential information, including ratings, genres, release dates, runtime, cast, plot, and posters.
 <table align="center">
   <tr>
-    <td><img src="screenshot/main_screen.jpeg" width="600"></td>
+    <td><img src="screenshot/main_screen.jpeg" ></td>
     <!-- <br><br> -->
-    <!-- <td><img src="screenshot/swapped.jpeg" width="600"></td> -->
+    <!-- <td><img src="screenshot/swapped.jpeg" ></td> -->
   </tr>
 </table>
 
@@ -56,19 +56,19 @@ A simple and interactive movie search application that lets users search for the
 
 <h2> Screenshots</h2>
 
-<img src="./screenshot/up.jpeg" alt="To-Do App" width="700">
+<img src="./screenshot/up.jpeg" alt="movieUP" width="900">
 
 <br><br>
 
-<img src="./screenshot/spiderman.jpeg" alt="Empty task alert" width="700">
+<img src="./screenshot/spiderman.jpeg" alt="movieSpiderman" width="900">
 
 <br><br>
 
-<img src="./screenshot/bheem.jpeg" alt="Task added" width="700">
+<img src="./screenshot/bheem.jpeg" alt="movieChotaBheem" width="900">
 
 <br><br>
 
-<img src="./screenshot/swapped.jpeg" alt="Task removed" width="700">
+<img src="./screenshot/swapped.jpeg" alt="movieSwapped" width="900">
 
 
 
