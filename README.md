@@ -3,7 +3,15 @@ A simple and interactive movie search application that lets users search for the
 <table align="center">
   <tr>
     <td><img src="screenshot/main_screen.jpeg" width="600"></td>
-    <br><br>
+    <!-- <br><br> -->
+    <!-- <td><img src="screenshot/swapped.jpeg" width="600"></td> -->
+  </tr>
+</table>
+
+
+
+<table align="center">
+  <tr>
     <td><img src="screenshot/swapped.jpeg" width="600"></td>
   </tr>
 </table>
